@@ -2,7 +2,7 @@ package com.infoshareacademy;
 
 import java.util.Scanner;
 
-public class Euklides {
+public class Euclid {
 
   public static void main(String[] args) {
 
